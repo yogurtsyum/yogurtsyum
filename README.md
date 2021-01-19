@@ -2,8 +2,7 @@
 
 I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
 
-🌎 [lengo.dev](https://lengo.dev)
-💬 [discord](https://lengo.dev/discord)
+🌎 [lengo.dev](https://lengo.dev) • 💬 [discord](https://lengo.dev/discord)
 
 ---
 
@@ -19,4 +18,4 @@ I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well kn
 
 ### Github Stats
 
-![Yogurtsyum's Github Stats](https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&theme=dark)
+![Yogurtsyum's Github Stats](https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&theme=dark) [![qbot README](https://github-readme-stats.vercel.app/api/pin/?username=yogurtsyum&repo=qbot)](https://github.com/yogurtsyum/qbot)
