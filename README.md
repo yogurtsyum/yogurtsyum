@@ -14,8 +14,10 @@ I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well kn
 - React (Next.js)
 - SQLite, MongoDB
 
+[![qbot README](https://github-readme-stats.vercel.app/api/pin/?username=yogurtsyum&repo=qbot)](https://github.com/yogurtsyum/qbot)[![IGR README](https://github-readme-stats.vercel.app/api/pin/?username=yogurtsyum&repo=in-game-ranking)](https://github.com/yogurtsyum/in-game-ranking)
+
 ---
 
 ### Github Stats
 
-![Yogurtsyum's Github Stats](https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&theme=dark) [![qbot README](https://github-readme-stats.vercel.app/api/pin/?username=yogurtsyum&repo=qbot)](https://github.com/yogurtsyum/qbot)
+![Yogurtsyum's Github Stats](https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&theme=dark)
