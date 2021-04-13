@@ -20,4 +20,14 @@ I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well kn
 
 ### Github Stats
 
-![Yogurtsyum's Github Stats](https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&theme=dark)
+<table>
+    <tr>
+        <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=yogurtsyum&show_icons=true&hide_border=true&icon_color=57947B&hide_title=true&count_private=true&bg_color=00000000&text_color=42725E">
+        </td>
+        <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogurtsyum&show_icons=true&hide_border=true&icon_color=57947B&hide_title=true&count_private=true&bg_color=00000000&text_color=42725E">
+        </td>
+    </tr>
+</table>
+
