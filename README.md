@@ -1,6 +1,6 @@
-👋 **Hi! I'm Yogurtsyum.**
+👋 **Hi! I'm Lengo.**
 
-I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
+I enjoy full stack development and creating Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
 
 🌎 [lengo.dev](https://lengo.dev) • 💬 [discord](https://lengo.dev/discord)
 
@@ -8,11 +8,11 @@ I'm a Web & Node.js Developer that enjoys creating Discord bots. My most well kn
 
 ### Experience
 
-- JavaScript, TypeScript, Node (Discord.js, Express, Canvas)
-- Python (d.py, Pillow)
+- Python (d.py, Flask)
+- JavaScript, TypeScript, Node (d.js, Express, etc)
 - HTML, CSS (Bootstrap, Tailwind)
-- React (Next.js)
-- SQLite, MongoDB
+- React (Next, CRA)
+- PostgresQL, MongoDB, SQLite
 
 ---
 
