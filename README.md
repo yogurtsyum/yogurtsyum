@@ -1,6 +1,6 @@
 👋 **Hi! I'm Lengo.**
 
-I enjoy full stack development and creating Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
+I'm a hobby developer who enjoys creating open source software and Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
 
 🌎 [lengo.dev](https://lengo.dev) • 💬 [discord](https://lengo.dev/discord)
 
@@ -8,11 +8,11 @@ I enjoy full stack development and creating Discord bots. My most well known pro
 
 ### Experience
 
-- Python (d.py, Flask)
+- ⭐ Python (d.py, Flask)
 - JavaScript, TypeScript, Node (d.js, Express, etc)
 - HTML, CSS (Bootstrap, Tailwind)
-- React (Next, CRA)
-- PostgresQL, MongoDB, SQLite
+- ⭐ React (Next, CRA)
+- MongoDB, SQLite
 
 ---
 
