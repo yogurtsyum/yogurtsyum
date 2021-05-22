@@ -8,10 +8,10 @@ I'm a hobby developer who enjoys creating open source software and Discord bots.
 
 ### Experience
 
-- ⭐ Python (d.py, Flask)
+- Python (d.py, Flask)
 - JavaScript, TypeScript, Node (d.js, Express, etc)
 - HTML, CSS (Bootstrap, Tailwind)
-- ⭐ React (Next, CRA)
+- React (Next, CRA)
 - MongoDB, SQLite
 
 ---
