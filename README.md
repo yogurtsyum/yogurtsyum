@@ -1,4 +1,4 @@
-![banner image](https://i.lengo.dev/BWvs3Lf)
+![banner image](https://i.gyazo.com/bad4568dd67f9b498763b0f86b269d9d.png)
 
 👋 **Hi! I'm Lengo.**
 
