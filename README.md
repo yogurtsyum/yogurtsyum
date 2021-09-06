@@ -12,6 +12,6 @@ I'm a hobby developer who enjoys creating open source software and Discord bots.
 
 - Python (d.py, Flask)
 - JavaScript, TypeScript, Node (d.js, Express, etc)
-- HTML, CSS (Bootstrap, Tailwind)
+- HTML, CSS (Bootstrap, Tailwind, Chakra, Material UI)
 - React (Next, CRA)
-- MongoDB, SQLite
+- MongoDB, MySQL, SQLite
