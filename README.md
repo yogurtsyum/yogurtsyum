@@ -2,7 +2,7 @@
 
 👋 **Hi! I'm Lengo.**
 
-I'm a hobby developer who enjoys creating open source software and Discord bots. My most well known project is probably [qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
+I'm a hobby developer who enjoys creating open source software and Discord bots. My most well known project is probably [Qbot](https://github.com/yogurtsyum/qbot), an advanced, easy to setup, free, and unbranded Discord-Roblox ranking bot.
 
 🌎 [lengo.dev](https://lengo.dev) • 💬 [chat on discord](https://lengo.dev/discord)
 
